@@ -1,0 +1,14 @@
+
+    01-PAMI 2018Collaborative Active Visual Recognition from Crowds_ A Distributed Ensemble Approach.pdf
+    02-NIPS 2017Noise-Tolerant Interactive Learning from Pairwise Comparisons with Near-Minimal Label Complexity.pdf
+    04-IJCAI 2017On Gleaning Knowledge from Multiple Domains for Active Learning.pdf
+    06-IJCAI 2018Cost-Effective Active Learning for Hierarchical Multi-Label Classification.pdf
+    07-ICMI 2017Active Learning for Cost-Sensitive Classification.pdf
+    09-ICCV 2017Active Decision Boundary Annotation with Deep Generative Models.pdf
+    10-ICCV 2017Active  learning Human Pose Estimation.pdf
+    03-PAMI 2018 Active Self-Paced Learning for Cost-Effective and Progressive Face Identification.pdf
+    11-CVPR 2017Fine-Tuning Convolutional Neural Networks for Biomedical Image Analysis_ Actively and Incrementally.pdf
+    12-AAAI2017Deep Learning Quadcopter Control via Risk-Aware Active Learning.pdf
+    08-ARXIV 2018Cost-Effective Training of Deep CNNs with Active Model Adaptation.pdf
+    05-IJCAI 2017Cost-Effective Active Learning from Diverse Labelers.pdf
+ 
